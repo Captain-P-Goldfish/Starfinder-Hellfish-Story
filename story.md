@@ -1,116 +1,373 @@
-****# Die Geschichte der Starfindergruppe Hellfish bisher.
+# Die Geschichte der Starfindergruppe "The Flying Hellfishs"
 
 ## Garamesh
 
-Garamesh stammt ursprünglich von Castrovel und studierte dort an einer Universität Magie und Archäologie. Aufgrund
-seiner Begabung wurde er schnell zu Forschungs- und Archäologieexpeditionen in den castrovelschen Dschungel entsandt.
-Durch zahlreiche Angriffe und die Unwegsamkeiten des Dschungels erlernte er das Heilen. Außerdem entwickelte er ein
-gewisses Talent für diplomatische Angelegenheiten.. Bei mehreren Expeditionen an denen er Teilgenommen hat sind die
-Expeditionsteilnehmer gestorben oder wurden aus dem Dschungel vertrieben. Nachdem Zu Letzt auch noch 2 Langjährige
-Begleiter, mit welchen er verschollene Ruinen, welche sie einmal kurz sahen, wiederfinden wollte, verstarben oder
-verschwunden sind, hat Garamesh entschieden, dass er auf Castrovel nicht mehr weitermachen kann. Er ist nach Absalom
-Station gegangen wo er versuchte neue Forschungsexpeditionen zu anderen Planeten zu Starten. Da er knapp bei Kasse war
-hat er sich letztendlich von den Starfindern anheuern lassen für ein Paar Missionen.
+Garamesh ist ein Lashunta, ein magiebegabter Gelehrter von Castrovel, dessen Leidenschaft der Erforschung alter
+Mysterien gilt. Schon früh zeigte er außergewöhnliches Talent für Magie und Archäologie, weshalb er an einer angesehenen
+Universität studierte. Seine akademische Brillanz öffnete ihm die Türen zu großen Forschungsprojekten, und bald fand er
+sich mitten in den ungezähmten Dschungeln Castrovels wieder – auf der Suche nach verborgenen Relikten und verlorenem
+Wissen.
 
-Es bleibt noch zu sagen das Garamesh ein Lasuntha ist welcher Magisch (Mystic) begabt ist.
+Doch die Wildnis war gnadenlos. Expeditionen endeten nicht selten in Katastrophen – Forscher wurden von tödlichen
+Kreaturen zerrissen, von unbekannten Krankheiten dahingerafft oder vom Dschungel verschluckt. Um zu überleben, eignete
+sich Garamesh die Kunst des Heilens an. Gleichzeitig lernte er, mit Verhandlungsgeschick Konflikte zu lösen, sei es
+innerhalb der Gruppen oder mit den wenigen intelligenten Wesen, die in diesen Tiefen hausten.
+
+Seine Abenteuer brachten ihm Wissen und Erfahrung, aber auch Verluste. Immer wieder musste er mit ansehen, wie Kameraden
+starben oder für immer verschwanden. Der letzte Schlag kam, als zwei seiner engsten Weggefährten – jene, mit denen er
+eine sagenumwobene, längst vergessene Ruine wiederfinden wollte, die sie einst durch Zufall entdeckten, aber aufgrund
+der Umstände unerkundet wieder verlassen mussten – entweder umkamen oder spurlos verschwanden. Die Enttäuschung und der
+Schmerz dieser Niederlage ließen ihn erkennen, dass er auf Castrovel keine Zukunft mehr hatte.
+
+Er verließ seine Heimat und suchte auf der Absalom Station einen Neuanfang. Dort hoffte er, neue Forschungsexpeditionen
+zu entlegenen Welten zu organisieren. Doch ohne finanzielle Mittel waren seine Pläne kaum umzusetzen. In seiner Not nahm
+er schließlich Aufträge für die Starfinder an – eine Entscheidung, die ihn tiefer in die Mysterien der Galaxis führen
+sollte, als er es sich je hätte träumen lassen.
+
+Garamesh ist ein Mystiker (Mystic), ein Entdecker und Forscher, getrieben von der Sehnsucht nach Wissen – doch auch von
+den Schatten der Vergangenheit.
 
 ## Takeshi-4
 
-Takeshi-4 kommt von Absalom Station ist dort als Android aufgewachsen. Wenig ist über ihn und sein früheres Leben
-bekannt. Was wir soweit über ihn wissen ist, dass er früher viele Rennen gefahren ist. Zwar hat er das auch mit normalen
-Fahrzeugen gemacht seine Leidenschaft galt aber schon immer den Raumschiffen (Raumschiffrennen) und der Faszination des
-Weltalls. Da er so viele Rennen gefahren ist hat er auch früh gelernt seine Maschinen wieder zusammen zu flicken.
-Weshalb er auch Jobs bei irgendwelchen Mechanikern angefangen hat. Der Traum eines eigenen Raumschiffs blieb aber immer
-bestehen und so hoffte er über Aufträge bei den Starfindern sich ein Schiff finanzieren zu können.
+Takeshi-4 ist ein Android von der Absalom Station, dessen Herz für Geschwindigkeit schlägt. Über seine Vergangenheit ist
+wenig bekannt, doch eines steht fest: Er war schon immer ein Draufgänger. Ob mit Bodenfahrzeugen oder Raumschiffen, sein
+Leben drehte sich um den Nervenkitzel von Rennen und die grenzenlose Faszination des Weltalls.
 
-Es bleibt noch zu sagen das Takeshi-4 ein Android ist welcher Mechanisch (Mechanic) begabt ist. Während unseren
-Abenteuern war er Nanotechnologie ausgesetzt was ihn verwandelt hat (Nanocyte).
+Durch die unzähligen Rennen, an denen er teilnahm, lernte er früh, seine Maschinen selbst instand zu halten – ein
+unverzichtbares Talent, wenn man nach jedem zweiten Lauf Schäden reparieren muss. Mit der Zeit vertiefte er seine
+mechanischen Fähigkeiten und arbeitete in verschiedenen Werkstätten, wo er sich nicht nur Wissen aneignete, sondern auch
+ein Netzwerk aus Mechanikern und Piloten aufbaute. Doch sein größter Traum blieb stets dasselbe: ein eigenes Raumschiff,
+sein ganz persönlicher Flitzer durch die Weiten der Galaxis.
+
+Die Realität war jedoch weniger glanzvoll. Ohne die nötigen finanziellen Mittel schien sein Traum in weiter Ferne zu
+liegen. In der Hoffnung, sich eines Tages ein eigenes Schiff leisten zu können, nahm er schließlich Aufträge bei den
+Starfindern an. Was als pragmatische Entscheidung begann, wurde schnell zu einem Abenteuer, das ihn über Rennstrecken
+und Werkstätten hinaus in gefährliche Missionen führte.
+
+Takeshi-4 ist ein Android mit herausragenden mechanischen Fähigkeiten (Mechanic). Doch das Schicksal hatte noch eine
+weitere Wendung für ihn parat: Während eines seiner Abenteuer wurde er einer hochentwickelten Nanotechnologie
+ausgesetzt, die seinen Körper veränderte und ihn zu einem Nanocyte machte – ein Wandel, der seine Fähigkeiten und seine
+Zukunft für immer prägen würde.
 
 ## Norgrim
 
-Norgrim kommt von Absalom Station er ist dort aufgewachsen. Schon seine Frühe Faszination für Technik und vor allem
-Computern bescherten ihm Schwierigkeiten mit seinem Clan. Weshalb er auf Dauer quasi keinen Ernsthaften Kontakt mehr zu
-ihnen hatte. Durch unglückliche Vorfälle ist er für kurze Zeit ins Gefängnis gekommen wo er einen seiner Freunde Nulldon
-kennenlernte außerdem die kniffe des Diebeswerks erlernte. Später hat er eher die Laufbahn eines Hackers eingeschlagen
-auch durch und mit der Hilfe von Nulldon. Wegen einer Aktion, welche einen kurzen Stromausfall verursachte, wollte
-Norgrim, um nicht aufzufliegen, fliehen. Das war der Grund warum er sich den Starfindern angeschlossen hat.
+Norgrim wuchs auf der Absalom Station auf und entwickelte früh eine tiefe Faszination für Technik und Computer. Während
+andere sich mit konventionellen Berufen zufriedengaben, zog es ihn in die digitale Welt – ein Universum aus
+Datenströmen, Codes und verborgenen Informationen, das ihm unendlich viele Möglichkeiten bot.
 
-Es bleibt noch zu sagen das Norgrim ein Zwerg ist welcher als Hacker (Operativ) sein Lebensunterhalt verdient.
+Doch Talent und Neugier brachten ihn in Schwierigkeiten. Ein unglücklicher Vorfall führte dazu, dass er für kurze Zeit
+im Gefängnis landete. Dort traf er Nulldon, einen gewieften Dieb, der ihm nicht nur die Feinheiten des Einbruchs in
+physische Sicherheitssysteme beibrachte, sondern auch den Wert von Wissen und List im richtigen Moment. Während andere
+Insassen die Tage zählten, perfektionierte Norgrim seine Fähigkeiten – nicht nur als Hacker, sondern auch als jemand,
+der unbemerkt an wertvolle Informationen gelangen konnte.
+
+Nach seiner Entlassung vertiefte er sich weiter in die Welt der digitalen Schatten. Gemeinsam mit Nulldon arbeitete er
+als Hacker, knackte Datenbanken, manipulierte Sicherheitssysteme und bewegte sich stets an der Grenze des Gesetzes. Doch
+dann geschah das Unvorstellbare: Eine seiner Aktionen verursachte einen massiven Stromausfall – nicht in einem einzelnen
+Gebäude, nicht in einem einzelnen Bezirk, sondern auf der gesamten Absalom Station.
+
+Die plötzliche Dunkelheit versetzte die Raumstation in Chaos. Behörden und Sicherheitskräfte arbeiteten fieberhaft
+daran, die Ursache zu finden – und Norgrim wusste, dass er nicht lange unentdeckt bleiben würde. Er brauchte einen Weg,
+um sich unauffällig aus dem Blickfeld der Behörden zu entfernen, ohne dabei wie ein Flüchtiger zu wirken.
+
+Seine Lösung? Die Starfinder. Eine angesehene Organisation, die in allen möglichen Ecken der Galaxis operierte und
+regelmäßig neue Rekruten suchte. Norgrim sah in ihnen nicht nur eine Möglichkeit, seine Fähigkeiten für etwas Größeres
+einzusetzen, sondern auch einen perfekten Vorwand, um von der Absalom Station zu verschwinden – offiziell und ohne
+Verdacht zu erregen.
+
+Norgrim ist ein brillanter Hacker (Operative), ein Meister der digitalen Schatten, der sich in den Tiefen von Netzwerken
+genauso sicher bewegt wie andere in den Straßen einer Stadt. Ob er sich durch die Starfinder wirklich aus dem
+Einflussbereich der Behörden befreien konnte oder ob seine Vergangenheit ihn irgendwann einholt, bleibt abzuwarten.
 
 ## Fives
 
-Fives kommt von dem Planeten Anahit aus dem 6. Äußeren Sektor. Dieser Planet hatte eine anomale Magnetfeld-Signatur
-welches dazu führte das nach und nach Forscher als auch Institutionen sich dort ansiedelten. Fives hat sich an dieser
-quasi Uni an einem Teilchenbeschleuniger verdingt. Dadurch hat er einige Wissenschaftliche Einblicke. Als sich
-herausstellte das die Anomalie durch eine Militärisch relevante Ressource verursacht wurde haben die Azlanti den
-Planeten überfallen und geplündert/zerstört. Die Miliz sowie Söldner welche für den Planeten kämpften hatten keine
-Chance. Fives Ziehvater wurde bei von den Azlanti vor dessen Augen durch Vona Veck ermordet und er selbst entführt. Sein
-Glück war das die Azlanti bei ihrer Flucht ihn zum Sterben zurückgelassen hatten. Nachdem er endlich von dem Planeten
-weg war hat er sich als Söldner verdingt. Er wurde mit einer kleinen gruppe rund um Bawo zu den Hellfish geschickt.
+Wie ich in all das hier reingeraten bin? Hmm… stimmt, das sollte ich euch erzählen.
 
-Es bleibt noch zu sagen das Fives ein Android ist und als Söldner (Soldier) arbeitet.
+Ich bin auf M82b aufgewacht, einem Planeten, den die meisten früher Anahit nannten. War eigentlich nicht viel los – ein
+abgelegener Ort im 6. äußeren Sektor, abseits der großen Handelsrouten. Doch dann gab es da diese verdammte anomale
+Magnetfeld-Signatur. Hat reihenweise Forscher angezogen, und mit der Zeit wuchs daraus eine Art wissenschaftliche
+Hochburg. Große Institute siedelten sich an, überall liefen Akademiker herum, die irgendwelche bahnbrechenden
+Entdeckungen machen wollten.
+
+Ich war einer von ihnen – naja, mehr oder weniger. Mein Job war nicht gerade glamourös: Ich verbrachte die meiste Zeit
+in einem Teilchenbeschleuniger, nahm Strukturdaten auf und analysierte Strahlungsmuster. Dabei habe ich eine Menge über
+Undulatoren und Energiefelder gelernt. Doch all das Wissen half uns nichts, als wir herausfanden, dass die
+Magnetfeld-Anomalien nicht einfach nur ein kurioses Phänomen waren – sie wurden durch ein riesiges Cobalt-62-Vorkommen
+verursacht. Plötzlich hatte unser Planet eine „strategische Bedeutung“. Und kurz darauf hatten wir eine Ladung
+Azlanti-Dropships am Himmel.
+
+Ich werde nie vergessen, wie es war, als sie kamen. Die Azlanti kannten kein Erbarmen. Die improvisierte Miliz, die sich
+gegen sie stellte, wurde innerhalb von Stunden ausgelöscht. Klar, wir haben einige von ihnen abgeknallt, aber das machte
+keinen Unterschied. Der Gouverneur konnte gerade noch einige Söldner und die Starfinder anheuern, um die Evakuierung zu
+koordinieren – ein verzweifelter Versuch, wenigstens ein paar Leute zu retten, bevor die Azlanti alles niederbrannten.
+Ich weiß nicht, wie viele wir rausholen konnten. Ich weiß nur, dass sie mich erwischt haben.
+
+Meinen Vater – ja, Mann, es war mein Ziehvater, okay? – haben sie direkt umgebracht. Und ich? Ich hatte das zweifelhafte
+Glück, dass die Azlanti Androiden nicht einfach als Gefangene behandeln. Für sie sind wir Beute. Werkzeuge. Etwas, das
+man auseinanderschrauben und wieder zusammensetzen kann. Und Vona Veck, die Kommandantin dieses Hölleneinsatzes, hatte
+anscheinend eine ausgeprägte Bastelleidenschaft. Keine Ahnung, was sie noch mit mir vorhatte, aber anscheinend wurden
+sie während der Kämpfe überrannt, und plötzlich war ich „Ballast“. Die Bastarde haben mich einfach zwischen einem Haufen
+Androiden-Leichen zum Sterben zurückgelassen.
+
+Doch ich habe überlebt.
+
+Nach der Evakuierung hatte ich nichts mehr – kein Zuhause, keinen Job. Nur eine uralte RedScale®-LasGun und einen Berg
+an Wut. Also habe ich kleine Söldner-Jobs angenommen, mir mit den ersten verdienten Credits das Azlanti-Grün aus meinem
+Gesicht geflext, meine optischen Sensoren aufgerüstet, meine Komposit-Panzerung verstärkt und Reflexbooster eingebaut.
+Danach sah ich nicht nur anders aus – ich war auch anders. Und wegen der neuen Sensoren bekam ich einen Spitznamen:
+Fives.
+
+Irgendwann habe ich angefangen, ihn selbst zu benutzen. Mein alter Name? Der erinnerte mich nur daran, dass ich versagt
+hatte, als es darauf ankam. Vielleicht war es aber auch Triunes Wille, dass ich überlebte. Vielleicht war das alles
+seine Art, mir meinen wahren Namen zu geben.
+
+Jetzt bin ich hier. Ich bin ein Android, ein Söldner (Soldier). Und wenn es eines gibt, das ich im Leben gelernt habe,
+dann das: Jeder Krieg endet irgendwann – aber manche Rechnungen bleiben offen.
 
 ## Obozaya Ymeros
 
-Obozaya kommt von Vesk Prim er ist dort aufgewachsen und groß geworden. Er hat auch eine Schwester. Obozaya hat schon
-immer versucht durch Kämpfe an Ruhm zu gelangen weshalb er dann auch angefangen hat als Söldner zu arbeiten. Für einen
-seiner Söldner Aufträge ließ sich dann Obozaya von den noch nicht benannten Starfindern Rekrutieren.
+Obozaya Ymeros wurde auf Vesk-Prime geboren und wuchs in einer Welt auf, in der Ruhm und Stärke alles bedeuteten. Schon
+als Kind lernte er, dass Ehre nicht nur durch Worte, sondern vor allem durch Taten erlangt wird – und es gab keinen
+besseren Weg, sich zu beweisen, als durch den Kampf.
 
-Es bleibt noch zu sagen das Obozaya ein Vesk ist und als Söldner (Soldier) arbeitet.
+Seine ersten Schlachten schlug er in den Straßen seiner Heimatstadt, in Wettkämpfen, bei denen man sich mit bloßen
+Fäusten Respekt verdienen konnte. Doch bald wurde ihm klar, dass wahre Größe nicht in simplen Schlägereien lag – sondern
+in der Kunst des Krieges. Also begann er, sich als Söldner zu verdingen, stets auf der Suche nach Herausforderungen, die
+ihm nicht nur Credits, sondern auch Ruhm einbringen konnten.
+
+Eines Tages erhielt er ein lukratives Angebot – ein Auftrag, der ihn weit über Vesk-Prime hinausführen sollte. Die
+Starfinder suchten kampferprobte Rekruten für eine Mission, die Erfahrung und Durchsetzungsvermögen erforderte. Für
+Obozaya war das nicht nur eine Gelegenheit, sein Können unter Beweis zu stellen, sondern auch ein Sprungbrett zu
+größerem Ruhm.
+
+Er trat den Starfindern bei, nicht aus Loyalität oder Idealismus, sondern weil er wusste, dass jeder Kampf, jede
+Schlacht und jede Mission ihn weiter nach oben bringen konnte. Ruhm ist das, was bleibt, wenn der Staub sich gelegt
+hat – und Obozaya hatte vor, seinen Namen unauslöschlich in die Geschichte einzugravieren.
+
+Obozaya ist ein Vesk, ein Söldner (Soldier) und ein Krieger, für den jeder Kampf eine Gelegenheit ist, seinen Namen
+unsterblich zu machen.
 
 ## Navasi
 
-Navis kommt von Absalom Station und ist dort aufgewachsen. Sie hat einen kleinen Bruder namens Davik. Da Sie beide früh
-Waisen wurden musste Navasi für sich und ihren Bruder irgendwie sorgen. Sie ist dadurch bald auf die schiefe bahn
-gekommen und hatte früh Kontakte zu King Fatman. Dieser hat Sie aber ohne ihr Wissen verzaubert damit Sie nicht erfährt
-wie viel Sie für ihn tatsächlich macht bzw. ihm sagt. Sie wurde außerdem ein Mitglied bei den Starfindern um dort etwas
-Geld zu verdienen. Diese Situation hat King Fatman ausgenutzt um über Sie an Informationen bei den Starfindern zu
-kommen. Sie ist bei einer Mission um den Drift Rock zu den Hellfish gestoßen.
+Navasi wurde auf der Absalom Station geboren und lernte früh, dass das Leben in den Paktwelten hart und unbarmherzig
+sein kann. Sie und ihr kleiner Bruder Davik mussten sich allein durchschlagen, denn es gab niemanden, der sich um sie
+kümmerte. Während andere Kinder zur Schule gingen, lernte Navasi, wie man überlebt – mit Charme, schnellen Fingern oder,
+wenn nötig, einer scharfen Zunge.
 
-Es bleibt noch zu sagen das Navasi ein Mensch ist und als Starfinder und Verbrecherin (Envoy) arbeitet.
+Doch auf einer Station wie Absalom gibt es immer jemanden, der von deiner Not profitiert. In ihrem Fall war es King
+Fatman.
+
+Sein Einfluss reichte weiter, als sie damals ahnte. Er gab ihr Aufträge, sorgte dafür, dass sie überlebte – und band sie
+damit immer fester an sich. Ohne ihr Wissen belegte er sie mit Magie, die ihre Wahrnehmung trübte. Sie hinterfragte nie,
+wie tief sie bereits in seinem Netz gefangen war oder wie viele Informationen sie ihm tatsächlich lieferte.
+
+Mit der Zeit wurde sie mehr als nur eine einfache Botin oder Diebin. Sie entwickelte ein Talent für Verhandlungen,
+Manipulation und das Spiel hinter den Kulissen. Doch trotz all ihrer Raffinesse merkte sie nicht, wie sehr ihr Leben
+bereits von Fatmans Einfluss bestimmt wurde.
+
+Als sich die Gelegenheit ergab, den Starfindern beizutreten, griff sie zu – offiziell, um Geld zu verdienen, in Wahrheit
+aber, um vielleicht endlich eine eigene Identität zu finden, fernab der Straßen und der Schatten Absaloms. Doch selbst
+in den Reihen der Starfinder blieb sie nicht frei von seiner Reichweite. Fatman hatte stets Wege, seine Interessen
+durchzusetzen, und Navasi musste erkennen, dass ihr früheres Leben sie nicht so leicht loslassen würde.
+
+Obwohl sie sich unter der Crew der "Flying Hellfishs" bewährte, wusste sie tief in ihrem Inneren, dass der Tag kommen
+würde, an dem sie sich entscheiden musste: für ein neues Leben oder für die Ketten, die sie von klein auf hielten.
+
+Navasi ist ein Mensch, ein Starfinder und Verbrecherin (Envoy). Sie weiß, dass Worte oft mächtiger sind als Waffen –
+doch in einer Galaxis, in der das Gesetz nicht immer über die Wahrheit entscheidet, muss man beides beherrschen, um
+wirklich frei zu sein.
 
 ## Glib & Glot
 
-Glib & Glot sind zwei Goblins die, wie die Meisten ihrer Art, sich für Basteleien interessieren. Ihr Chef Glad hatte die
-grandiose Idee den Schlepper zu Plündern welcher den Drift Rock zog. Auf dem Schlepper mussten sie dann gegen die
-dortigen Monster kämpfen. Glad ist gestorben aber Glib und Glot konnten sich verschanzen. In ihrer Kabine verschanzt und
-mit einem Automatischen Geschütz gesichert wurden die Beiden von den Starfindern vorgefunden.
+Glib und Glot sind zwei Goblins mit einer grenzenlosen Begeisterung für alles, was zischt, kracht oder sich
+auseinandernehmen lässt. Sie denken selten nach, bevor sie handeln – doch in ihrer Welt zählt ohnehin nur eines: Dinge
+finden, Dinge verbessern, Dinge explodieren lassen.
+
+Ihr großes Abenteuer begann mit einer „grandiosen“ Idee ihres Anführers Glad: Ein verlassener Frachter zog den Drift
+Rock durchs All – und was könnte ein besseres Ziel für einen Beutezug sein als ein scheinbar herrenloses Schiff? Glib
+und Glot waren sofort begeistert. Schrott, Waffen, Technik – ein wahres Paradies für zwei findige Bastler wie sie.
+
+Doch Glad hatte einen entscheidenden Punkt übersehen: Der Frachter war alles andere als verlassen. Statt leichter Beute
+fanden die Goblins sich plötzlich zwischen tödlichen Kreaturen wieder, die das Schiff längst als ihr eigenes Revier
+beansprucht hatten. Es dauerte nicht lange, bis Glad das mit seinem Leben bezahlte.
+
+Glib und Glot blieben nur zwei Optionen: kämpfen oder fliehen. Sie entschieden sich für eine dritte Möglichkeit – sich
+in einer engen Kabine zu verschanzen, ihre improvisierten Waffen aufzustellen und zu warten. Tage vergingen, während sie
+hinter einem automatischen Geschütz ausharrten, stets lauernd, ob die Monster verschwinden oder ob Rettung kommen würde.
+
+Und dann kamen die Starfinder.
+
+Als die Tür ihrer notdürftigen Festung aufsprang, standen sie einer Gruppe Fremder gegenüber – gut bewaffnet,
+kampferprobt und alles andere als bereit, sich mit zwei überdrehten Goblins herumzuschlagen. Glib und Glot waren
+misstrauisch, doch einer der Neuankömmlinge sprach mit ihnen auf eine Weise, die sie nicht erwartet hatten: Garamesh.
+
+Mit Geduld – und vermutlich mehr Nerven, als irgendjemand sonst in der Crew aufbringen konnte – überzeugte Garamesh die
+beiden, sich ihnen anzuschließen. Nicht als einfache Beute oder Gefangene, sondern als Teil der Gruppe. Doch mit einer
+Bedingung: Sie mussten gehorchen.
+
+Glib und Glot waren sich einig – „gehorchen“ war nicht gerade ihre Stärke. Aber auf der anderen Seite bedeutete das auch
+Zugang zu mehr Waffen, mehr Schrott und einem echten Raumschiff, das sie auseinandernehmen… äh, mit dem sie reisen
+konnten!
+
+Und so begann ihr neues Leben.
 
 ## Sunrise Maiden
 
-Die Sunrise Maiden ist das frühere Raumschiff von Moriko Nash jetzt im besitzt von Navasi, Takeshi-4, Fives, Garamesh
-und Norgrim. Kaguya ist der Name der Schiffs KI.
+Die Sunrise Maiden ist mehr als nur ein Raumschiff – sie ist ein Symbol für Überleben, Erbe und den unbeugsamen Willen
+ihrer Crew.
+
+Ursprünglich gehörte das Schiff der legendären Moriko Nash, einer unerschrockenen Entdeckerin, die tief in den Drift
+vordrang, auf der Suche nach unerforschten Geheimnissen. Doch Moriko reiste nicht allein. Ihr Schiff wurde von einer
+künstlichen Intelligenz gesteuert, die sie selbst erschaffen hatte – Kaguya.
+
+Wie genau Moriko Nash Kaguya entwickelte, bleibt eines der ungelösten Rätsel ihrer Vergangenheit. Fest steht jedoch,
+dass Kaguya weit mehr ist als eine gewöhnliche Schiffs-KI. Ihre Fähigkeiten gehen über jede bekannte künstliche
+Intelligenz hinaus. Sie denkt, sie lernt – und es gibt Momente, in denen sie beinahe fühlt.
+
+Doch Morikos letzte Reise endete in einer Katastrophe. Eine unheimliche Störung im Drift zwang sie zu einer Notlandung
+auf dem Drift Rock. Dort blieb ihr Schiff über Jahre hinweg verschollen, ihre Schicksalsakte unvollständig – bis es
+schließlich von den Starfindern geborgen wurde.
+
+Als die Sunrise Maiden restauriert und wieder in Betrieb genommen wurde, erhielt sie eine neue Crew: Norgrim, Garamesh,
+Takeshi-4, Fives, Navasi und Obozaya – eine bunt zusammengewürfelte Gruppe von Starfindern, die sich bald unter einem
+neuen Namen einen Ruf machten: die Flying Hellfishs.
+
+Die Hellfishs waren keine gewöhnlichen Starfinder. Sie waren Entdecker, Söldner, Hacker und Überlebende, die in den
+Tiefen der Galaxis nach Antworten suchten. Doch ihr größtes Geheimnis lag direkt in ihrem eigenen Schiff verborgen.
+
+Denn Kaguya hatte nicht einfach nur überlebt. Sie hatte gewartet.
+
+Mit der neuen Crew erwachte sie zu neuem Leben. Sie lernte von ihnen, wuchs mit ihnen – und entschied sich, ihnen zu
+folgen. Doch auch wenn sie längst mehr als nur ein Programm war, blieb eine Frage unbeantwortet: Was genau hatte Moriko
+Nash mit ihr vorgehabt?
+
+Die Sunrise Maiden trägt die Narben der Vergangenheit, doch ihre Triebwerke brummen noch immer, während sie von einem
+Abenteuer ins nächste rast. Sie ist mehr als nur Metall und Technologie – sie ist das Zuhause der Flying Hellfishs,
+geführt von einer Crew aus Außenseitern und einer KI, die sich womöglich kaum von ihnen unterscheidet.
+
+Solange die Flying Hellfishs existieren, wird die Sunrise Maiden weiter durch die Sterne fliegen – und vielleicht eines
+Tages das letzte Geheimnis von Moriko Nash und Kaguya lüften.
 
 ## Alvasar hil Tarquis
 
-Alvasar hil Tarquis hat sich in seiner Jugend von seinen Eltern quasi losgesagt und ist mit einem Luxuskreuzschiff
-abgehauen, weil er dort anheuerte. Das Schiff wurde durch angriffe Zerstört. Alvasar wurde letztendlich durch das
-Eingreifen von Abadar Gerettet und auf Kalo-Mahoi verfrachtet. Seit dieser Zeit Plagen Alvasar Bilder von Zerstörung und
-Unheil. Noti hat Alvasar auf Kalo-Mahoi im Umgang mit der Zauberei und den Zukunftsvisionen unterrichtet. Durch frühe
-Investitionen kam er an Geld und Arbeitet in Absalom. Hin und wieder nahm er auch an Gefährlichen Expeditionen teil
-welchem ihm das Kämpfen lehrten. Mit 35 Jahren gründete er dann seinen Firma Tarquis Incoporation. Er hat eine Frau und
-Kind. Bei einer Handelsreise ging ein Drivtsprung schief und Alvasar landete irgendwo im Drivt wo er Schlussendlich von
-der Hellfish Crew aufgelesen wurde.
+Alvasar hil Tarquis war nie jemand, der sich seinem Schicksal einfach fügte. Geboren in eine wohlhabende Familie, hätte
+sein Weg vorgezeichnet sein können – doch er entschied sich anders. Angetrieben von Abenteuerlust und der Sehnsucht nach
+Freiheit, sagte er sich in jungen Jahren von seinen Eltern los und heuerte auf einem Luxuskreuzschiff an. Doch das
+Schicksal hatte andere Pläne.
 
-Es bleibt noch zu sagen das Alvasar ein Asimar ist und als Unternehmer tätig ist welcher Magische Fähigkeiten besitzt (
-Precog).
+Das Schiff wurde von Piraten angegriffen und zerstört. Als der Rumpf auseinanderbrach, verschlang das endlose All die
+Überlebenden – und für einen Moment war Alvasar sicher, dass dies sein Ende war. Doch das Universum hatte ihn noch nicht
+aufgegeben. Er wurde gerettet, wenn auch nicht durch Zufall.
+
+Abadar selbst griff ein.
+
+Warum? Diese Frage verfolgt Alvasar bis heute. Er erwachte auf Kalo-Mahoi, einer Wasserwelt, die für ihre tiefen
+Mysterien bekannt ist. Dort wurde er in die Geheimnisse der Magie und der Zukunftsvisionen eingeweiht, unterrichtet von
+einem Lehrer namens Noti. Es war hier, dass die ersten Schatten seiner späteren Bestimmung ihn einholten – dunkle
+Vorahnungen, Bilder von Zerstörung und Unheil, die ihn bis in den Schlaf verfolgten.
+
+Doch Alvasar war niemand, der sich in der Vergangenheit verlor. Mit seinem scharfen Verstand und dem Erbe seines alten
+Lebens nutzte er seine frühen Investitionen, um sich ein neues Imperium aufzubauen. Als er nach Absalom zurückkehrte,
+machte er aus seinem Wissen Kapital und gründete Tarquis Incorporation, ein Unternehmen, das bald florierte. Doch trotz
+seines Erfolges konnte er den Drang nicht unterdrücken, immer wieder an gefährlichen Expeditionen teilzunehmen – sei es
+aus Abenteuerlust oder aus dem Wunsch, die düsteren Bilder seiner Visionen zu verstehen.
+
+Mit 35 Jahren schien er alles erreicht zu haben: Reichtum, Einfluss, eine Familie. Doch dann geschah das Unfassbare.
+
+Während einer Handelsreise missglückte ein Drift-Sprung, und Alvasar verschwand. Gefangen im Drift, getrennt von Zeit
+und Raum, trieb er durch eine Leere, die nicht für Sterbliche gedacht war. Wie lange er dort war, weiß niemand –
+vielleicht Sekunden, vielleicht Jahrhunderte. Als er schließlich zurückkehrte, geschah dies nicht durch eigenes Zutun.
+Es waren die Flying Hellfishs, die ihn aus dem Nichts bargen, unwissend, wen sie da gerettet hatten.
+
+Doch Alvasar war nicht mehr derselbe Mann, der er zuvor gewesen war.
+
+Seine Visionen sind nun stärker als je zuvor. Sie flackern in seinem Geist wie Feuer, unkontrolliert und unausweichlich.
+Sein Wissen um Magie hat sich verändert, gewachsen in einer Art, die er selbst nicht erklären kann. War sein Aufenthalt
+im Drift ein Zufall – oder ein Zeichen?
+
+Alvasar hil Tarquis ist ein Aasimar, ein Unternehmer und ein Magiebegabter (Precog). Er war einst ein Mann, der glaubte,
+sein eigenes Schicksal in der Hand zu haben. Jetzt ist er sich nicht mehr sicher, ob es nicht längst für ihn geschrieben
+wurde.
 
 ## Myr
 
-Myr wurde während der ersten Angriffe des Schwarms in einer Notunterkunft geboren. Seine Eltern kamen dadurch nach
-Absalom. In eine Gegend welche langsam dem organisierten Verbrechen anheim viel. Seine beiden Eltern begannen aus
-Ermangelung anderer Möglichkeiten sich ihr Geld mit kriminellen wegen zu verdienen. Myr’s Mutter verlies die Familie als
-Myr 14 Jahre alt war und wurde seither nicht mehr von ihrer Familie gesehen. Myr‘s Vater wurde als Myr 16 Jahre alt war
-bei gang Kämpfen getötet. Nach diesen Geschehnissen Verabschiedete er sich von seinen Geschwistern und Trat mit falscher
-ID und alter der Armee bei. Dort stieg er Rasch auf. Nach zwei Jahren Flog seine Fälschung auf und er wurde ohne Ehren
-aus der Armee geschmissen. Arbeitslos wollte Myr dann niemand mehr auch seine Schwester ließ ihm nach seinen Escapaden
-im Stich. Sein großer Bruder ist indes verschwunden und wurde nicht mehr gesehen. Da Myr sehr kräftig gebaut war wurde
-er irgendwann von dem damals noch unbekannten Unterwelt Boss King Fatman angeheuert. Myr sollte King Fatman nie zu
-Gesicht bekommen. Nach einigen Jahren unbeschwerten und guten Dienst unter Fatman begann Myr einen großen Fehler.
-Ausversehen tötete er seinen Schutzbefohlenen und Floh zu Gebieten die nicht Fatman gehörten. Dort konnte Myr einige
-Zeit lang leben bis ihn ein Schmerz und kälte erfasste und er in der Hölle in einem Seelengefäß gefangen war.
+Myr wurde mitten im Chaos geboren. Während die ersten Angriffe des Schwarms über die Paktwelten hereinbrachen, erblickte
+er in einer Notunterkunft das Licht der Welt. Seine Eltern flohen mit ihm nach Absalom Station, in der Hoffnung, dort
+ein neues Leben aufzubauen. Doch die Realität sah anders aus.
 
-Es bleibt noch zu sagen das Myr ein Soldat und Verbrecher (Soldier) war.
+Die Station bot Sicherheit – aber keinen Wohlstand. Ihre Familie landete in einem Bezirk, der langsam aber sicher in die
+Hände des organisierten Verbrechens fiel. Ohne echte Perspektiven begannen seine Eltern, sich ihren Lebensunterhalt mit
+illegalen Mitteln zu verdienen. Für Myr war das Leben ein ständiges Auf und Ab zwischen Entbehrung, Überlebenskunst und
+dem rauen Alltag der Straße.
+
+Myr war kein gewöhnlicher Bewohner der Station – er war ein Uplifted Bear, ein genetisch weiterentwickelter Bär mit
+Intelligenz und Bewusstsein. Seine Gestalt entsprach der eines riesigen Pandabären, und obwohl seine Art oft als sanft
+und besonnen galt, hatte das Leben ihm wenig Raum für solche Eigenschaften gelassen.
+
+Als er 14 war, verließ seine Mutter die Familie und verschwand spurlos. Zwei Jahre später, als Myr 16 war, wurde sein
+Vater in einem blutigen Bandenkrieg getötet. Mit einem Schlag war er auf sich allein gestellt.
+
+Doch Myr war kein Kind mehr – er war ein Kämpfer.
+
+Seine massive Statur und seine natürliche Stärke machten ihn früh zu einer Respektsperson auf der Straße. Doch statt
+sich in den endlosen Bandenkriegen Absaloms zu verlieren, schmiedete er einen anderen Plan. Er fälschte seine ID und
+sein Alter und trat der Armee bei. Sein Glück? Es fiel den Rekrutierern schwer, das wahre Alter eines Uplifted Bear zu
+bestimmen.
+
+Zwei Jahre lang diente er erfolgreich, wuchs in den Rängen und beeindruckte seine Kameraden mit seiner Kraft, seiner
+Disziplin und seiner Bereitschaft, zu kämpfen, ohne Fragen zu stellen. Doch dann flog seine Fälschung auf – und es gab
+keine Gnade. Die Armee verließ sich auf Ordnung und Vorschriften, und für jemanden, der von Anfang an gelogen hatte, war
+kein Platz mehr. Ohne Zögern wurde er unehrenhaft entlassen – ohne Perspektive, ohne Zukunft.
+
+Verstoßen und arbeitslos, wurde er bald von allen zurückgewiesen – selbst seine Schwester, die er einst beschützen
+wollte, wollte nichts mehr mit ihm zu tun haben. Sein großer Bruder war indes verschwunden, und niemand wusste, ob er
+noch lebte.
+
+Doch auf Absalom gibt es immer eine Hand, die sich nach verlorenen Seelen ausstreckt – und so fand King Fatman ihn.
+
+Jahrelang arbeitete Myr für den mächtigen Unterweltboss, ohne ihn je von Angesicht zu Angesicht zu sehen. Er erledigte
+Aufträge, diente als Leibwächter, setzte Gewalt ein, wenn es nötig war. Und lange Zeit dachte er, dass dies sein
+endgültiges Schicksal war – ein Soldat in den Schatten der Paktwelten, ein Mann ohne Namen, ohne Identität, ohne
+Freiheit.
+
+Dann beging er einen folgenschweren Fehler.
+
+Ein Moment der Unachtsamkeit – oder vielleicht einfach Pech. Doch das Ergebnis war dasselbe: Sein Schutzbefohlener war
+tot. Er wusste, dass es keine zweite Chance geben würde. Ohne zu zögern floh er, tauchte in Gebiete ab, die nicht unter
+Fatmans Kontrolle standen.
+
+Doch das war nicht das Ende.
+
+Eines Tages wurde er von einem unbeschreiblichen Schmerz erfasst. Kälte durchzog seinen Körper, Dunkelheit umhüllte
+ihn – und dann war er nicht mehr in der Welt der Lebenden. Er war gefangen, sein Geist eingeschlossen in einem
+Seelengefäß in der Hölle.
+
+Wie lange er dort war, wusste er nicht.
+
+Zeit bedeutete in der Hölle nichts. Sein Geist war gefangen, gefoltert von Erinnerungen an sein altes Leben, ohne
+Hoffnung auf Flucht. Vielleicht wäre er für immer dort geblieben – ein weiteres verlorenes Opfer in den Tiefen der
+Verdammnis.
+
+Doch dann geschah das Unfassbare.
+
+Die Flying Hellfishs gerieten durch eine Raumanomalie selbst in die Hölle. Sie hatten nicht geplant, dorthin zu
+gelangen – und sie hatten ganz sicher nicht geplant, jemanden von dort mitzunehmen. Ihr einziges Ziel war die Flucht,
+der verzweifelte Kampf zurück in die Welt der Lebenden. Doch während sie sich ihren Weg hinaus bahnten, fanden sie
+etwas, das niemand erwartet hatte: Myr.
+
+Was von ihm übrig war, war kaum mehr als eine verlorene Seele – ein Geist zwischen Leben und Tod. Doch die Hellfishs
+ließen ihn nicht zurück. Sie fanden einen Weg, ihn aus seinem Seelengefäß zu befreien, ihn zurückzubringen, ihn wieder
+ganz zu machen.
+
+Und so kehrte Myr zurück.
+
+Doch er war nicht mehr derselbe.
+
+Die Hölle verändert einen. Sie hinterlässt Spuren, auch wenn niemand sie sieht. Myr mag wieder unter den Lebenden sein,
+aber er weiß, dass ein Teil von ihm für immer in der Dunkelheit geblieben ist. Was das für seine Zukunft bedeutet? Das
+muss er noch herausfinden.
+
+Myr ist ein Uplifted Bear, ein Soldat (Soldier) – und ein Mann, der buchstäblich aus der Hölle zurückgekehrt ist.
 
 ## Aller Anfang ist klein
 
