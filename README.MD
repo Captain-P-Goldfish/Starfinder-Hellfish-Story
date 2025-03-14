@@ -369,39 +369,144 @@ muss er noch herausfinden.
 
 Myr ist ein Uplifted Bear, ein Soldat (Soldier) – und ein Mann, der buchstäblich aus der Hölle zurückgekehrt ist.
 
-## Aller Anfang ist klein
+# Aller Anfang ist klein
 
-Eine kleine Gruppe aus Abenteurern bestehend aus Garamesh, Takeshi-4 und einer 3ten Person (war nur einmal dabei) wurden
-von Venture Captain Arvin beauftragt etwas in den Slums von Absolom Station zu besorgen. (Ich glaube es wurden Marker
-von Starfindern vermisst [gefunden])
+Die Geschichte der **Flying Hellfishs** begann mit einer kleinen Gruppe Abenteurer – **Garamesh, Takeshi-4** und einem
+weiteren Begleiter, der jedoch nur kurz Teil der Gruppe war. Sie wurden von **Venture-Captain Arvin** auf eine einfache
+Mission geschickt: In den Slums von **Absalom Station** sollten sie ein verschwundenes Objekt wiederbeschaffen. Was sie
+fanden, war jedoch weit brisanter – **Starfinder-Marken**, die dort nicht hätten sein dürfen.
 
-Nachdem Sie wieder bei Ventur Captain Arvin waren haben Sie Norgrim Rekrutiert. Die gefundenen Starfinder Marke
-Verunsicherten Venture Captain Arvin und er meinte diese Marke gehört zu Starfinder die eigentlich unterwegs zu einer
-Mission in die Diaspora waren. Er schickte die kleine Gruppe also zu einer Mission mit einem geliehenen Raumschiff in
-die Diaspora. Es wurde ihnen noch ein Söldner gestellt welcher die Funktion des Soldaten/Schützen übernehmen sollte. So
-wurde dann Obozaya angeheuert. Sie kamen relativ problemlos in die Diaspora zu dem genannten Planeten. Via Holonachricht
-informierte Sie der Ventur Captain Arvin, dass Sie noch das Raumschiff mit einem anderen Tauschen sollten und den
-Söldner Fives mitnehmen sollten. Hier trafen Sie zum ersten Mal Fives und den Captain der kleinen Crew Namens Bawo(
-Ysoki). Bawo wollte zunächst das bessere Schiff behalten. Fives und Takeshi pochten darauf die Raumschiffe zu tauschen.
-Bawo beugte sich schließlich und verabschiedete sich mit seiner Crew. Wir landeten also auf dem Planeten einige Minuten
-Fußmarsch von dem Wrack eines Raumschiffs entfernt. Dort angekommen durchsuchte die Gruppe das Raumschiff und fand
-einige Void Zombie und einen Akata. Die Helden konnten diese Gegner besiegen und die Leichen der Starfinder bergen.
-Zurück im Weltall erhielten Sie einen Hilferuf von Bawo. Er wird von einer Free Captain verfolgt. Ihr Name ist Ambrys.
-Mit vereinten Kräften konnten wir ihr Schiff Fluguntauglich machen. Bawos Raumschiff wurde stark zerstört und er konnte
-gerade so gerettet werden (Bawo stark verletzt). Die Crew außer Norgrim wollte Bawo erstmal inhaftieren, weil Sie
-glaubten er wollte sich Ambrys anschließen. Tatsächlich wollte er sich ihr anschließen nur lief irgendetwas bei den
-Verhandlungen schief. Ambrys schiff stand besser da. Wir enterten also ihr Raumschiff. Zwei ihrer Crewmitglieder
-verstarben zwei andere wurde gefangen genommen und Ambrys konnte mit einer Rettungskapsel fliehen. Siegreich nahmen wir
-alle drei Schiffe in beschlagnahm und Reparierten Sie. Als Norgrim sich einmal mit Bawo unterhielt versuchte dieser zu
-fliehen. Gemeinsam konnte er gestoppt werden. Bawo musste auf die Toilette dort wurde er von uns „bewacht“. Die fünf
-Hellfish unterhielten sich was Sie mit Bawo nun Unternehmen sollten und waren deswegen eher unachtsam. Bawo konnte sich
-dadurch mit einem Magischen Hackingchip Zugang zu den Boardcomputern Verschaffen und dann in den Hangar des Schiffs
-gelangen. Dort konnte er einen Jäger Erbeuten und damit uns erpressen um an das alte Schiff von Ambrys zu gelangen. Mit
-dem Schiff und dem Rest ihrer Crew verschwand Bawo. Wir mit nur noch zwei Schiffen Teilten uns auf diese auf. Das eine
-Schiff schaffte es leider nicht richtig zu navigieren (zwei Mal nat 1). Durch ein Riskantes Manöver konnte Takeshi das
-andere Schiff stoppen nur landeten wir dadurch irgendwo in einem Riesigen Mikro Organismus. Dadurch hatten wir noch ein
-Raumschiff verloren. Einen Forscher konnten wir mit aus diesem Organismus retten. Außerdem haben uns viele Barathu in
-ihren Bann gezogen mit ihrem Wissen. Letztendlich konnten wir entkommen.
+## Ein erster Hinweis auf ein größeres Mysterium
+
+Zurück bei **Arvin** wurde schnell klar, dass diese Marken zu Starfindern gehörten, die eigentlich auf einer Mission in
+die **Diaspora** waren. Doch von diesen Agenten hatte man seit langer Zeit nichts mehr gehört. Etwas war schiefgelaufen.
+**Arvin beauftragte die Gruppe, in die Diaspora zu reisen und nach ihnen zu suchen.**
+
+Da sie ihr Ziel sonst nicht hätten erreichen können, stellte die Starfinder Society ihnen ein **Raumschiff** zur
+Verfügung. Doch eine Mission dieser Art erforderte nicht nur ein Schiff, sondern auch eine schlagkräftige Crew. Deshalb
+wurde ihnen ein erfahrener **Söldner** zugeteilt: **Obozaya Ymeros**, ein kampferprobter Vesk-Soldat, der sich ihrer
+Crew anschloss.
+
+## Ein entscheidender Schifftausch – und ein neuer Kamerad
+
+Während sich die Flying Hellfishs der **Diaspora** näherten, war bereits klar, dass der Planet, auf dem die
+verschwundenen Starfinder zuletzt gesehen worden waren, inmitten eines **Asteroidenfeldes** lag. Die Trümmer stellten
+eine zu große Gefahr für das kleine geborgte Schiff der Gruppe dar.
+
+Doch Venture-Captain **Arvin** hatte vorgesorgt.
+
+In diesem Sektor operierte bereits eine andere Starfinder-Crew unter dem Kommando des Ysoki-Piloten **Bawo**. Arvin
+hatte ihm den Befehl gegeben, sein Schiff an die Flying Hellfishs zu übergeben – ein robusteres Modell, das den
+Bedingungen um den Planeten herum besser gewachsen war.
+
+Als die Gruppen sich trafen, wurde schnell klar, dass Bawo nicht sonderlich begeistert davon war, sein Schiff abzugeben.
+Doch ein Befehl war ein Befehl, und widerwillig ließ er sich darauf ein. **Mit an Bord seines Schiffes war auch Fives,
+ein kampferprobter Söldner, der sich den Hellfishs anschließen sollte.**
+
+Nach einer kurzen, aber angespannten Übergabe wechselte die Crew das Schiff. **Fives verabschiedete sich von Bawo und
+stieß zur Gruppe, während der Ysoki-Kapitän mit seiner Mannschaft zurückblieb – ohne sein bestes Schiff, aber mit der
+vagen Hoffnung, dass es irgendwann zu ihm zurückkehren würde.**
+
+Mit neuer Ausrüstung, einem stabileren Schiff und einem zusätzlichen Kämpfer an Bord setzten die Flying Hellfishs ihre
+Reise fort – bereit, sich dem Planeten und den Antworten zu stellen, die dort auf sie warteten.
+
+## Ein abgestürztes Wrack und untote Gefahren
+
+Die Spur der verschwundenen Starfinder führte die Flying Hellfishs zu einem abgestürzten Raumschiff auf der
+Planetenoberfläche. Nach einem kurzen Fußmarsch erreichten sie das Wrack – doch es war alles andere als verlassen.
+
+Zwischen den zerborstenen Trümmern lauerten **Void-Zombies** und eine aggressive **Akata**, Kreaturen, die sich von
+Lebenskraft ernähren und ihre Opfer in untote Hüllen verwandeln. Der Kampf war hart, doch die Flying Hellfishs setzten
+all ihre Fähigkeiten ein, um die Bedrohung niederzuringen.
+
+Als der letzte Feind gefallen war, durchsuchten sie das Wrack und sicherten die **Blackbox des Schiffes** – zusammen mit
+den **Leichen der vermissten Starfinder** und einem Akata Kadaver, der Garamesh als Forschungsobjekt dienen sollte,
+deren Schicksal nun hoffentlich endlich geklärt werden könnte.
+
+## Bawos Verrat und seine Flucht
+
+Kaum zurück im Weltall, empfingen die Flying Hellfishs einen **dringenden Notruf von Bawo**. Sein Schiff wurde von einer
+Piratin der **Free Captains** verfolgt – **Ambryss**.
+
+Die Hellfishs entschieden sich, ihm zu helfen, doch als der Kampf entbrannte, nahm die Situation eine unerwartete
+Wendung: **Bawo stellte sich plötzlich gegen sie.** Offenbar sah er noch eine letzte Chance, sich den Piraten
+anzuschließen und seinen gescheiterten Deal mit Ambryss zu retten.
+
+Zwischen Verhandlungen, Drohungen und dem Versuch, ihn zur Vernunft zu bringen, schwankte Bawo während der Schlacht
+mehrfach hin und her. Mal kämpfte er an der Seite von Ambryss, mal unterstützte er die Hellfishs – bis er sich im
+letzten Moment doch wieder **für die Hellfishs entschied**, als sie ihm Amnestie und Freiheit anboten, sollte er ihnen
+helfen.
+
+Mit vereinten Kräften gelang es ihnen schließlich, **Ambryss zu überwältigen**. Doch **Bawos Schiff
+war stark beschädigt und manövrierunfähig.** Die Hellfishs konnten ihn und den verbliebenen Teil seiner Crew
+aus den Trümmern bergen, bevor es für sie zu spät war. Und trotz des Chaos war Bawos Crew ihm weiterhin treu ergeben.
+
+Nach seiner Rettung wurden Bawo und seine Crew behandelt und **von den Hellfishs gefangen genommen**. Sie hatten nicht
+vergessen, dass er sich gegen sie gestellt hatte – und auch wenn sie ein gutes Wort für ihn bei den Starfindern einlegen
+wollten, sollte er sich für seine Taten verantworten.
+
+Doch für Bawo war eines klar: **Die Hellfishs hatten ihr Versprechen gebrochen.**
+
+Während sich die Flying Hellfishs um andere Dinge kümmerten, schmiedete Bawo gemeinsam mit seinen verbliebenen Leuten
+einen Fluchtplan. **Auf seinem schwer beschädigten Schiff befand sich noch ein einsatzbereiter High-Tech-Jäger**, den er
+heimlich startklar machte.
+
+Als sich die Gelegenheit bot, schlug er zu:
+
+1. Er hackte das Schiff mit Hilfe eines magischen Hacker-Chips und machte die Hellfishs damit Handlungsunfähig.
+2. Die Situation nutze er, **kaperte den Jäger** und richtete ihn gegen die Hellfishs, die ihm in diesem Moment nichts
+   entgegensetzen konnten.
+3. Unter dieser Drohung erpresste er sie, **seine Crew freizulassen** und sie das zuvor von Ambryss eroberte Schiff an
+   sich nehmen zu lassen.
+4. **Wehrlos ausgeliefert**, mussten die Hellfishs nachgeben. Bawo und seine Leute entkamen schließlich mit dem
+   High-Tech-Jäger **und** Ambryss’ Schiff.
+
+Sein letzter Akt der Rache war ein gezielter Angriff – mit dem Jäger fügte er dem Raumschiff der Flying Hellfishs noch
+schwere Schäden zu, bevor er in den Weiten des Alls verschwand.
+
+Seine Loyalität war nie gewiss gewesen, doch eines stand fest:  
+**Bawo und seine Leute waren nicht mehr ihr Problem – zumindest fürs Erste.**
+
+## Der katastrophale Navigationsfehler und das lebendige Gefängnis
+
+Die Gruppe teilte sich auf die verbleibenden beiden Schiffe auf und nahm Kurs auf Absalom Station. Doch etwas lief
+schrecklich schief.
+
+Ein katastrophaler Navigationsfehler brachte eines der Schiffe völlig aus der Bahn. **Ein fataler Sprung durch den Drift
+führte sie an einen Ort, der in keinem bekannten Sternenkatalog existierte.**
+
+Als sie wieder Orientierung fanden, wurde klar: Sie waren in das Innere eines **gigantischen Organismus** geraten –
+einer fremdartigen, einzellerartigen Masse von schier unvorstellbarer Größe. Sein Inneres erinnerte an einen riesigen
+Quallenkörper, pulsierend, fremdartig und von einer Intelligenz durchzogen, die sie nicht verstanden.
+
+## Das Wissen der Barathu und die Flucht
+
+Während die Flying Hellfishs in diesem fremdartigen Organismus gestrandet waren, machten sie eine unerwartete
+Entdeckung: einen **verschollenen Forscher**, der tief im Inneren des Wesens überlebt hatte.
+
+Darüber hinaus trafen sie auf die **Barathu**, schwebende Wesen, deren Wissen über die Existenz weit über das
+hinausging, was sich die Crew jemals hätte vorstellen können. Eine angemessene Kommunikation mit einer derart exotischen
+Spezies schien zunächst unmöglich – doch **Garamesh**, der Mystiker und Empath der Gruppe, fand einen Weg. Mithilfe
+mystischer Verbindungen aus Emotionen und Bildern gelang es ihm, einen ersten Kontakt aufzubauen.
+
+Die Barathu machten deutlich, dass sie keine Feinde waren. Sie erforschten lediglich das gigantische Wesen, in dem die
+Hellfishs gestrandet waren, und boten ihre Hilfe an, um wieder zu entkommen. Um allen Crew-Mitgliedern eine
+Verständigung mit den Barathu zu ermöglichen, erschuf Garamesh einen geistigen Verbund zwischen der Crew und den
+schwebenden Wesen.
+
+Diese Verbindung hätte die Hellfishs jedoch beinahe in den Abgrund gestürzt. Durch den geistigen Kontakt drangen die
+Besatzungsmitglieder in das **kollektive Bewusstsein** der Barathu ein und erhielten Zugang zu einem gewaltigen Schatz
+an Wissen. Die Erfahrung war so überwältigend, dass die meisten von ihnen jegliches Zeitgefühl und den Bezug zur
+Realität verloren.
+
+Einige Crew-Mitglieder schafften es schließlich, sich von der Faszination zu lösen. Doch **Garamesh**, dessen Neugier
+und Ehrgeiz wuchsen, weigerte sich, den Kontakt abzubrechen. Er wollte noch mehr über die Barathu erfahren, selbst wenn
+dies sein Ende bedeuten mochte. Um ihn vor diesem verhängnisvollen Schritt zu bewahren, entfernten ihn die Hellfishs
+gewaltsam aus dem geistigen Netzwerk.
+
+Am Ende folgten sie dem Angebot der Barathu und nutzten deren Hilfe, um aus dem Inneren des Organismus zu entkommen.
+Trotz der Strapazen und der beinahe katastrophalen Begegnung verließen sie diese fremdartige Welt mit neuem Wissen – und
+dem Bewusstsein, dass manche Geheimnisse besser nur flüchtig gestreift werden.
 
 ## Kleiner Stein Große Wirkung?
 
