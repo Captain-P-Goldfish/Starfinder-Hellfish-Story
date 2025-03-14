@@ -437,9 +437,14 @@ mehrfach hin und her. Mal kämpfte er an der Seite von Ambryss, mal unterstützt
 letzten Moment doch wieder **für die Hellfishs entschied**, als sie ihm Amnestie und Freiheit anboten, sollte er ihnen
 helfen.
 
-Mit vereinten Kräften gelang es ihnen schließlich, **Ambryss zu überwältigen**. Doch **Bawos Schiff
-war stark beschädigt und manövrierunfähig.** Die Hellfishs konnten ihn und den verbliebenen Teil seiner Crew
-aus den Trümmern bergen, bevor es für sie zu spät war. Und trotz des Chaos war Bawos Crew ihm weiterhin treu ergeben.
+Mit vereinten Kräften gelang es den Hellfishs schließlich, **Ambryss zu überwältigen**. Doch **Bawos Schiff** war stark
+beschädigt und manövrierunfähig. Um Ambryss endgültig unschädlich zu machen, wurde auch ihr Schiff geentert, nachdem es
+zuvor kampfunfähig geschossen worden war. Dort gerieten die Hellfishs in ein Gefecht mit der Piratencrew: Zwei von
+Ambryss’ Leuten wurden „ein für alle Mal“ ausgeschaltet, zwei weitere nahmen sie gefangen. **Ambryss** selbst entkam
+jedoch über eine Rettungskapsel, sodass jede weitere Spur von ihr verloren ging.
+
+Die Hellfishs konnten **Bawo und den verbliebenen Teil seiner Crew** rechtzeitig aus den Trümmern ihres alten Schiffs
+bergen, bevor es für sie zu spät war. Und trotz des Chaos blieb Bawos Mannschaft ihm weiterhin treu ergeben.
 
 Nach seiner Rettung wurden Bawo und seine Crew behandelt und **von den Hellfishs gefangen genommen**. Sie hatten nicht
 vergessen, dass er sich gegen sie gestellt hatte – und auch wenn sie ein gutes Wort für ihn bei den Starfindern einlegen
