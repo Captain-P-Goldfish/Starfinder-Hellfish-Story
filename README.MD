@@ -513,82 +513,96 @@ Am Ende folgten sie dem Angebot der Barathu und nutzten deren Hilfe, um aus dem 
 Trotz der Strapazen und der beinahe katastrophalen Begegnung verließen sie diese fremdartige Welt mit neuem Wissen – und
 dem Bewusstsein, dass manche Geheimnisse besser nur flüchtig gestreift werden.
 
-## Kleiner Stein Große Wirkung?
+# Kleiner Stein, große Wirkung
 
-Die restliche Reiße zurück nach Absalom verlief relativ ereignislos. Im Anflug auf Absalom Station wurde die Gruppe von
-Marshal Carson einem Steward aufgehalten. Dieser hatte Sie sehr schnell wegen Schmuggelware auf dem Kicker. Garamesh
-konnte die Situation aber zum Glück durch seine Überredungskunst retten. Zurück bei Venture Captain Arvin erhielt die
-gruppe eine Belohnung außerdem wurden wir aufgrund der Knappheit aktiver einsatzfähiger Starfindern gebeten uns einen
-gewissen Drift Rock einmal genauer anzusehen und wir sollten deswegen doch einmal mit dem Eoxianischen Diplomaten
-Gevalarsk Nor sprechen. Da dieser in der Angelegenheit um den Drift Rock mit den zwei Involvierten Parteien vermittelte.
-Obozaya wollte uns nicht begleiten da durch Streitschlichten und die Erkundung eines Steins nicht viel Ehre zu gewinnen
-ist. Er ist lieber in sein Lieblings SPA gegangen um ein Schlammbad (oder auch mehrere) zu nehmen. Vor der Eoxianischen
-Botschaft sind wir dann auf Navasi gestoßen ein Mensch welche zu den Strafindern gehört und sich auch mit der
-Angelegenheit um den Drift Rock beschäftigte. Sie erhielt kein Eintritt zur Botschaft. Als die Hellfish dann den Zutritt
-erhielten meinte Navasi dass Sie zu uns gehört. So kamen die Hellfish schließlich zu ihrer Kapitänin. Bei Gevalarsk Nor
-angekommen erklärte er uns denn Streit über den Drift Rock und das kein Lebenszeichen von der Schlepper Crew bisher
-angekommen ist. Er wollte von uns das wir uns dort umschauen und herausfinden was dort vorgefallen ist. Außerdem bat er
-uns einen Schwarzen Sarg zu bergen und das wir ihn auf keinen Fall öffnen sollten. Damit Sie auch verlässliche
-Informationen erhalten sollte uns des Weiteren noch eine Fliegende Drohne uns begleiten um alles aufzuzeichnen und
-auszuwerten. In Absalom haben wir uns mit Navasi verabredet für den nächsten Tag um dort dann mit einem gestellten
-Transporter zum Raumschiff zu gelangen. Beim Hinflug zum Drift Rock wurden wir von dem Konzern welcher die Abbauarbeiten
-des selbigen beauftragten Kontaktiert. Diese haben mit uns Telefoniert und uns gebeten bei dem Streit für Sie zu
-entscheiden. Die Mining Gesellschaft hat auch unseren Kontakt gesucht wollte aber ein persönliches Treffen. Hier hat uns
-ein einzelner Kapitän dieser Mining Gesellschaft zu sich auf die Brücke eingeladen. Im ging es vor allem darum das wir
-herausfinden was mit der Crew geschehen ist von welcher seit geraumer Zeit kein Lebens Signal mehr kam. Außerdem bat er
-uns die Leichen zu bergen den er ging ziemlich sicher von deren Tod aus. Des Weiteren meinte er wenn die Gewinne durch
-die Bergung des Drift Rocks ihnen zugesprochen werden könnten Sie die Hinterbliebenen davon bezahlen. Norgrim traf auf
-dem Raumschiff eine junge Zwergin Namens Dizzi. Da die gruppe insgesamt die Mining Gesellschaft sympathischer fand
-beschlossen sie ihnen zu helfen sollte die Lage vor Ort nicht drastisch anders sein. Auf dem weiteren Weg zum Drift Rock
-also Sie schon ein gutes Stück außerhalb von Absalom waren wurden Sie durch einen Abfangjäger attackiert. Die Crew
-konnte diesen zurückschlagen bis er Richtung Drift Rock floh. Wir legten also mit unserem Transporter Automatisiert an
-dem Schlepper Raumschiff an. Auch hier erwarteten uns einige Akata diesen konnten wir mit einigen mühen zurückschlagen.
-Auf dem Schlepper fanden wir die Schwarze Fracht von Gevalarsk Nor. Der Sarg enthielt eine Leiche oder Eoxianer. Genauer
-konnten wir es nicht identifizieren und niemand wollte den Sarg öffnen, weil wir die Belohnung nicht riskieren wollten (
-bzw. weil uns die drohen entlarvt hätte). Was ungewöhnlich war ist das wir eine Space Goblin Leiche auf dem Schiff
-fanden. Etwas später fanden wir in einem Raum mit einem Automatischen Geschütz 2 weitere Goblins. Dies waren Glit und
-Glot welche von uns überzeugt werden konnten sich uns vorübergehend anzuschließen um Sie dann zu retten. Auf dem Schiff
-konnten wir auch noch das Audio log des Schiffkapitäns finden. Dort berichtet er davon wie Sie den Driftrock gefunden
-haben und wie die Crew langsam verrückt wurde und letztendlich alle starben. Außerdem wurde noch ein Vertrag über die
-Bergungsrechte des Driftrocks gefunden. Wir haben uns dann über die Abschleppseile abgeseilt auf den Driftrock da unser
-Transportschiff sich nicht bewegen lies. Auf dem Driftrock selbst fanden wir einen gut beschädigten Jäger. Den Piloten
-konnten wir aber nicht ausmachen. Was wir außerdem noch fanden war ein Eingang in ein Höhlen System des Driftrocks. Dort
-fanden wir einige Leichen welche sich als die Crew Mitglieder entpuppten. Es befanden sich außerdem einige Untote welche
-wir noch erledigten. Beim weiteren erkunden des Höhlensystems benötigten die Starfinder eine kurze Pause bis auf Norgrim
-der weiter erkundete. Irgendwann war der Funkkontakt zu ihm weg. Nachdem alle dann suchten woran dies lag fanden Sie
-einen Geist welcher ihn Paralysiert hatte. Auch den Geist konnte besiegt werden und Norgrim aus seiner Paralyse befreit
-werden. Bald darauf fanden wir einen bebauten Teil des Höhlensystems mit seltsamer Technologie. Niemand von uns konnte
-Sich einen Reim daraus machen außerdem kannte niemand die Sprache welche hier verwendet wurde. Takeshi konnte sich aber
-geschickt und intuitive durch das Computersystem navigieren und die Tür öffnen. Dort wurden wir dann attackiert von
-einem Assassinen. Wir konnten den Assassinen überwältigen ohne Sie zu töten. Ihr Name ist Clara-247 Fives hat dann mit
-ihr einen Söldner Vertrag ausgehandelt über eine leere Batterie das wir uns gegenseitig nicht töten Clara-247 uns aber
-bis zurück nach Absalom unterstützt. Leider kannte sie ihre Auftraggeber nicht weshalb wir nie rausfanden wer Sie
-anheuerte. In diesem bebauten System fanden wir dann einen Security Roboter welchen wir zerstörten hinter diesem war
-eine Tür in eine kleine Kammer. Dort fanden wir eine sehr alte Leiche. Diese entpuppte sich als Moriko Nash welche auf
-ihrem Com-unit eine Botschaft hinterlassen hat. Hier warnt Sie wer auch immer ihre Leiche findet die Personen vor einem
-Ungeheuer und vermacht gleichzeitig diesen Personen ihr Raumschiff. Uns war bei dem Namen auch relativ schnell klar das
-Moriko Nash eine Erforscherin von KI und Computersystemen war. Wobei Sie einige Zeit vor den Ereignissen lebte. Wir
-konnten dann auch noch das Ungeheuer finden und unschädlich machen. Bei der Sunrise Maiden dem ehemaligen Raumschiff von
-Moriko Nash erwartete uns eine KI welche ein Exaktes Ebenbild von Moriko Nash ist. Wir bekamen sodann das Schiff
-überantwortet und tauften die KI Kaguya. Wir sammelten auf dem Rückweg die Goblins ein. Unser Ursprüngliches Schiff
-welches uns zum Drift Rock gebracht hat legt währenddessen ab und verschwand. Mit der Sunrise Maiden versuchten wir dann
-das Schiff einzuholen. Als es zum Kampf kam hat Garamesh einen Notruf abgesetzt (nat20) in der Hoffnung das wir nicht
-alleine Kämpfen müssen. Kurz darauf haben die Hellknights auf unseren Notruf reagiert. Diese haben allen beteiligten
-Befohlen alle Kampfhandlungen einzustellen und die Systeme herunterzufahren. Was wir dann auch gemacht haben. Die
-Hellknights konnten die andere Seite dann besiegen und gefangen nehmen. Auch wir wurden verhört und bedroht, weil wir
-für so eine Kleinigkeit die Hellknights gerufen haben. Wobei wir darauf verwiesen das wir ja nicht explizit Sie gerufen
-haben, sondern einfach um Hilfe gebeten. Wir wollten dann noch den Schwarzen Sarg von Gevalarsk Nor zurück haben was Sie
-uns zuerst verweigerten die Flying Hellfish dann darauf verwiesen das der Sarg des Rechtswegs uns bzw. Gevalarsk Nor
-gehört. Zurück auf Absalom wurden wir zuerst von Schaulustigen belagert da ohne unser Wissen die Drohne unsere Kämpfe im
-Drift Rock oder auf dem Schiff übertragen hat und das direkt an die Absalom Sender ging. Hier verabschiedete sich
-Clara-247 von uns zwischen Fives und ihr sah es zumindest kurzfristig so aus als würde sich etwas anbahnen. Bei
-Gevalarsk Nor angekommen erhielten wir unseren Lohn plus den Zusatz für den Sarg. Wir unterhielten uns noch kurz darüber
-was der Drift Rock sein könnte. Vermutungen gingen von Forschungsstation zu irgendeiner absonderlichen Waffe. Zurück bei
-Venture Captain Arvin haben wir hier auch noch einmal über den Drift Rock und seine Bedeutung gesprochen. Wir haben ihn
-dann noch gefragt ob er noch Aufträge für uns hat. Er meinte zwar das weitere Nachforschungen zu dem Drift Rock
-interessant wären aber die Starfinder keine Gelder für uns hätten um das zu bezahlen. Durch unsere Berühmtheit erhielten
-wir nun mehrere Aufträge im Endeffekt entschieden wir uns dafür weiter dem Drift Rock nachzuforschen. Venture Captain
-Arvin meinte das wir auf Castrovel gut dazu forschen können.
+## Eine unauffällige Rückkehr und neue Schwierigkeiten
+
+Die Rückreise nach **Absalom Station** verlief für die Flying Hellfishs zunächst unspektakulär. Erst im Anflug auf die
+Station kam es erneut zu Schwierigkeiten: **Marshal Carson**, ein Steward, hielt sie auf und verdächtigte sie,
+Schmuggelware an Bord zu haben. Dank **Garameshs** diplomatischer Fähigkeiten gelang es jedoch, die Situation friedlich
+aufzuklären.
+
+Zurück bei **Venture-Captain Arvin** erhielten die Hellfishs neben ihrer Belohnung auch einen neuen Auftrag: Sie sollten
+einen mysteriösen Asteroiden – den sogenannten **Drift Rock** – untersuchen. Bereits zwei Parteien stritten erbittert um
+die Besitzrechte an diesem Asteroiden: der mächtige Konzern **Astral Extractions**, der die Crew der **Acreon** für
+Bergungsarbeiten engagiert hatte und daher den Drift Rock als Teil ihres Vertrages beanspruchte, und die unabhängige
+Mining-Crew der Acreon, die den Asteroiden eigenständig entdeckt hatte und eigene Rechte daran geltend machte. Um die
+Lage zu beruhigen, verwies Arvin sie zunächst an den eoxianischen Diplomaten **Gevalarsk Nor**, der in diesem Konflikt
+vermittelte.
+
+**Obozaya Ymeros**, der Vesk-Söldner, lehnte die Mission ab, da sie ihm weder Ruhm noch Ehre versprach. Stattdessen
+begab er sich lieber in sein bevorzugtes Spa, um mehrere Schlammbäder zu genießen.
+
+## Eine neue Verbündete: Navasi
+
+Vor der eoxianischen Botschaft traf die Gruppe auf die menschliche Starfinderin **Navasi**, die ebenfalls mit der
+Drift-Rock-Angelegenheit betraut war, aber keinen Zutritt zur Botschaft erhielt. Kurzentschlossen nutzte Navasi die
+Gelegenheit, behauptete, zur Gruppe zu gehören, und verschaffte sich so gemeinsam mit den Hellfishs Eintritt. Obwohl sie
+zunächst nicht offiziell zur Crew gehörte, wurde Navasi im Laufe der Mission zu einem vollwertigen Mitglied.
+
+Von Gevalarsk Nor erfuhren sie mehr über den Drift Rock. Nor beauftragte die Hellfishs, zum Drift Rock zu reisen, um das
+Schicksal der verschwundenen Schlepper-Crew der Acreon zu klären. Außerdem sollten sie einen **schwarzen Sarg** bergen –
+ohne diesen zu öffnen. Eine Drohne würde die Mission begleiten und sämtliche Aktionen aufzeichnen.
+
+## Konflikte im Anflug
+
+Während des Flugs zum Drift Rock wurden die Hellfishs direkt von den beiden Konfliktparteien kontaktiert:
+
+- **Astral Extractions** versuchte, sie zu beeinflussen, und forderte, dass sie bestätigen sollten, dass der Asteroid
+  rechtmäßig dem Konzern zustünde, da dieser die Acreon bezahlt hatte.
+- Die **unabhängige Mining-Crew der Acreon** dagegen bat sie in einem persönlichen Treffen darum, die Wahrheit
+  herauszufinden und die Leichen ihrer verschwundenen Kameraden zu bergen, damit deren Familien Klarheit erhielten. Bei
+  diesem Treffen lernte **Norgrim** zudem eine sympathische Zwergin namens **Dizzi** kennen.
+
+Kaum hatten sie sich dem Drift Rock genähert, wurden sie von einem unbekannten **Abfangjäger** attackiert. Nach einem
+kurzen, aber heftigen Gefecht vertrieben sie das feindliche Schiff, das daraufhin in Richtung des Drift Rocks floh.
+
+## Gefahren an Bord des Schleppers
+
+Beim Drift Rock angekommen, dockten die Hellfishs automatisch am Schlepper-Schiff, der Acreon, an. Doch das Schiff war
+nicht leer: **Akatas** lauerten überall. Mit großer Mühe kämpfte sich die Gruppe bis zum Laderaum durch, wo sie
+schließlich den mysteriösen schwarzen Sarg fanden, den Gevalarsk Nor dringend zurückhaben wollte. Ein Öffnen des Sargs
+hätte die Mission gefährdet – und so blieb er ungeöffnet.
+
+Neben dem Sarg entdeckten sie noch eine Space-Goblin-Leiche. Wenig später trafen sie auf zwei lebendige Space-Goblins
+namens **Glib und Glot**, die sich in einer Kabine verschanzt hatten. Garamesh überzeugte die beiden Goblins, sich der
+Gruppe anzuschließen.
+
+Ein Audio-Log des verschwundenen Schiffs-Kapitäns enthüllte, dass die Crew kurz nach Entdeckung des Drift Rocks dem
+Wahnsinn verfallen war und alle Mitglieder nach und nach starben. Außerdem entdeckten sie einen Bergungsvertrag zwischen
+**Astral Extractions** und der **Crew der Acreon**. Laut Vertrag hatte Astral Extractions die Acreon für allgemeine
+Bergungsarbeiten engagiert. Jedoch blieb unklar, ob der Drift Rock, der erst später entdeckt wurde, ebenfalls unter
+diesen Vertrag fiel – genau dieser Punkt sorgte nun für den Streit zwischen den Parteien.
+
+## Rätsel im Inneren des Drift Rocks
+
+Die Hellfishs seilten sich anschließend direkt auf den Drift Rock ab, da ihr Transportschiff plötzlich funktionsunfähig
+war. Dort fanden sie die Überreste eines abgestürzten Jägers, doch vom Piloten fehlte jede Spur. Stattdessen öffnete
+sich ihnen der Zugang zu einem unterirdischen Höhlensystem.
+
+Dort fanden sie Untote – offenbar Überreste der ehemaligen Crew. Während sich die Gruppe gerade mit den besiegten
+Void-Zombie-Leichen beschäftigte, entfernte sich **Norgrim** eigenmächtig, um alleine weiter zu erkunden. Dabei wurde er
+von einem gefährlichen Geist überrascht und paralysiert. Erst nachdem der Geist überwältigt worden war, konnte Norgrim
+befreit werden.
+
+## Das Vermächtnis von Moriko Nash
+
+Tiefer im Inneren des Drift Rocks entdeckten die Hellfishs fremdartige, unbekannte Technologien. Dank **Takeshis**
+Talent mit Technik gelang es der Gruppe, tiefer vorzudringen, bis sie plötzlich von einer Assassinin namens **Clara-247
+** attackiert wurden. Sie besiegten Clara-247, töteten sie jedoch nicht. Stattdessen handelte **Fives** mit ihr aus,
+dass Clara die Gruppe bis nach Absalom begleiten und ihnen nicht weiter schaden würde. Clara-247 hielt sich dabei an
+ihren professionellen Ehrenkodex als Söldnerin und weigerte sich, jegliche Informationen über ihren Auftraggeber
+preiszugeben.
+
+Kurz darauf fanden sie die uralten Überreste der KI-Forscherin **Moriko Nash**, die auf ihrem Com-Unit eine Warnung vor
+einem tödlichen Wesen hinterlassen hatte – aber auch den Findern ihr Raumschiff, die legendäre **Sunrise Maiden**,
+vermachte.
+
+## Die Geburt der Sunrise Maiden
+
+Nachdem das Ungeheuer besiegt war, erreichten die Hellfishs das Schiff von Moriko Nash. Dort begegneten sie einer
+hochentwickelten künstlichen Intelligenz, die dem exakten Ebenbild der verstorbenen Forscherin entsprach. Diese KI trug
+den Namen **Kaguya**, und von diesem Moment an wurde die Sunrise Maiden das offizielle Raumschiff der Flying Hellfishs.
 
 ## Dschungelfieber zum „Sternentor“
 
